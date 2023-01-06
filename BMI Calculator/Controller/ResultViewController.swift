@@ -26,6 +26,7 @@ class ResultViewController: UIViewController {
         resultMessageLabel.text = advice!
         
         view.backgroundColor = colour
+        print("Hello World")
         
       
       
